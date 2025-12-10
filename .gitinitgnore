@@ -1,0 +1,6 @@
+.env
+wp_data/
+mysql_data/
+logs/
+backups/
+.DS_Store
