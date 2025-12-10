@@ -1,0 +1,5 @@
+.env
+mysql_data/
+wp_data/
+logs/
+backups/
